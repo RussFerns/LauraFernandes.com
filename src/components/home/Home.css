@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+.home-message-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-message {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px auto;
+    min-height: 25vh;
+    font-size: 90px;
+    font-weight: normal;
+    font-family: 'Style Script', cursive;
+}
