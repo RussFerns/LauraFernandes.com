@@ -1,18 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
 
-.home-message-container {
+.home-container {
     display: flex;
     justify-content: center;
     align-items: center;
+    /* height: 100%; */
 }
 
-.home-message {
+.home-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 100px auto;
-    min-height: 25vh;
-    font-size: 90px;
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+    font-size: 7rem;
     font-weight: normal;
     font-family: 'Style Script', cursive;
 }
