@@ -2,13 +2,13 @@
 import React from "react";
 import { BrowserRouter, Navigate, Route, Routes } from "react-router-dom";
 import "./App.css";
-// import "./App.scss";
 import AppLayout from "./components/applayout/AppLayout";
 import About from "./components/about/About";
 import Album from "./components/album/Album";
 import Home from "./components/home/Home";
 import Game from "./components/game/Game";
 import Message from "./components/message/Message";
+
 
 const App = () => {
   return (
